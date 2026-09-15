@@ -1,6 +1,5 @@
 # Project-Status-Report
 
-
 ## Week 1 - January 15, 2026
 
 - Project initiated
@@ -8,3 +7,11 @@
 - Initial budget approved: $50,000
 
 ---
+
+## Week 2 - January 22, 2026
+- Vendor contracts signed
+- Development phase started
+- Budget remaining: $45,000
+
+---
+
